@@ -22,9 +22,9 @@ public class PrimePattern {
 					if(flag==0) {
 						System.out.print(count);
 					}
-					
+					count++;
 				}
-				count++;
+				
 			}
 		}
 	}
